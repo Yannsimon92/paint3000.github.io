@@ -42,8 +42,8 @@
     STL loader test by <a href="https://github.com/aleeper">aleeper</a>. PR2 head from <a href="http://www.ros.org/wiki/pr2_description">www.ros.org</a>
 </div>
 
-<script src="../js/jquery-3.2.1.min.js"></script>
-<script src="../js/three.min.js"></script>
+<script src="./js/jquery-3.2.1.min.js"></script>
+<script src="./js/three.min.js"></script>
 
 <script src="js/STLLoader.js"></script>
 <script src="js/FBXLoader.js"></script>
@@ -73,8 +73,8 @@
         cameraTarget = new THREE.Vector3( 0, -0.25, 0 );
 
         scene = new THREE.Scene();
-        scene.background = new THREE.Color( 0x4C1130 );
-        scene.fog = new THREE.Fog( 0x4C1130, 2, 15 );
+        scene.background = new THREE.Color( 0x72645b );
+        scene.fog = new THREE.Fog( 0x72645b, 2, 15 );
 
 
         // Ground
@@ -93,59 +93,59 @@
         // ASCII file
 
         var loader = new THREE.STLLoader();
-        /*loader.load( './models/stl/ascii/jeuneetcool.stl', function ( geometry ) {
+        loader.load( './models/stl/ascii/slotted_disk.stl', function ( geometry ) {
 
-         var material = new THREE.MeshPhongMaterial( { color: 0xff5533, specular: 0x111111, shininess: 200 } );
-         var mesh = new THREE.Mesh( geometry, material );
+            var material = new THREE.MeshPhongMaterial( { color: 0xff5533, specular: 0x111111, shininess: 200 } );
+            var mesh = new THREE.Mesh( geometry, material );
 
-         mesh.position.set( 0, - 0.25, 0.6 );
-         mesh.rotation.set( 0, - Math.PI / 2, 0 );
-         mesh.scale.set( 0.5, 0.5, 0.5 );
+            mesh.position.set( 0, - 0.25, 0.6 );
+            mesh.rotation.set( 0, - Math.PI / 2, 0 );
+            mesh.scale.set( 0.5, 0.5, 0.5 );
 
-         mesh.castShadow = true;
-         mesh.receiveShadow = true;
+            mesh.castShadow = true;
+            mesh.receiveShadow = true;
 
-         scene.add( mesh );
+            scene.add( mesh );
 
-         } );*/
+        } );
 
 
         // Binary files
 
         var material = new THREE.MeshPhongMaterial( { color: 0xAAAAAA, specular: 0x111111, shininess: 200 } );
 
-        /*loader.load( './models/stl/binary/jeuneetcool.stl', function ( geometry ) {
+        loader.load( './models/stl/binary/pr2_head_pan.stl', function ( geometry ) {
 
-         var mesh = new THREE.Mesh( geometry, material );
+            var mesh = new THREE.Mesh( geometry, material );
 
-         mesh.position.set( 0, - 0.37, - 0.6 );
-         mesh.rotation.set( - Math.PI / 2, 0, 0 );
-         mesh.scale.set( 2, 2, 2 );
+            mesh.position.set( 0, - 0.37, - 0.6 );
+            mesh.rotation.set( - Math.PI / 2, 0, 0 );
+            mesh.scale.set( 2, 2, 2 );
 
-         mesh.castShadow = true;
-         mesh.receiveShadow = true;
+            mesh.castShadow = true;
+            mesh.receiveShadow = true;
 
-         scene.add( mesh );
+            scene.add( mesh );
 
-         } );*/
+        } );
 
-        /*loader.load( './models/stl/binary/jeuneetcool.stl', function ( geometry ) {
+        loader.load( './models/stl/binary/pr2_head_tilt.stl', function ( geometry ) {
 
-         var mesh = new THREE.Mesh( geometry, material );
+            var mesh = new THREE.Mesh( geometry, material );
 
-         mesh.position.set( 0.136, - 0.37, - 0.6 );
-         mesh.rotation.set( - Math.PI / 2, 0.3, 0 );
-         mesh.scale.set( 2, 2, 2 );
+            mesh.position.set( 0.136, - 0.37, - 0.6 );
+            mesh.rotation.set( - Math.PI / 2, 0.3, 0 );
+            mesh.scale.set( 2, 2, 2 );
 
-         mesh.castShadow = true;
-         mesh.receiveShadow = true;
+            mesh.castShadow = true;
+            mesh.receiveShadow = true;
 
-         scene.add( mesh );
+            scene.add( mesh );
 
-         } );*/
+        } );
 
         // Colored binary STL
-        loader.load( './stl/jeuneetcool.stl', function ( geometry ) {
+        loader.load( './models/stl/binary/colored.stl', function ( geometry ) {
 
             var meshMaterial = material;
             if (geometry.hasColors) {
@@ -154,7 +154,7 @@
 
             var mesh = new THREE.Mesh( geometry, meshMaterial );
 
-            mesh.position.set( 0.9, 1.9, 0 );
+            mesh.position.set( 0.5, 0.2, 0 );
             mesh.rotation.set( - Math.PI / 2, Math.PI / 2, 0 );
             mesh.scale.set( 0.3, 0.3, 0.3 );
 
@@ -243,14 +243,16 @@
 
         var timer = Date.now() * 0.0005;
 
-        camera.position.x = Math.cos( timer ) * 10;
-        camera.position.z = Math.sin( timer ) * 10;
+        camera.position.x = Math.cos( timer ) * 3;
+        camera.position.z = Math.sin( timer ) * 3;
 
         camera.lookAt( cameraTarget );
 
         renderer.render( scene, camera );
 
     }
+
+
 
 </script>
 </body>
