@@ -1,0 +1,127 @@
+html{
+  background-image: radial-gradient(circle, #00fff4, #71feff, #bbfaff, #ebf9ff, #ffffff);
+  width: 100%;
+  height: 100%;
+}
+
+body{
+  /*background-image: url("../images/source1.gif");*/
+  background-position-x: right;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  background-position-y: bottom;
+  position: relative;
+  margin: 0;
+}
+
+li>a:hover{
+  font-size: 8vw;
+  transition: 1.2s ease;
+  padding: 5%;
+  margin: 10px;
+  border-radius: 50%;
+  opacity: 1;
+  -webkit-box-shadow: 10px 10px 300px 122px rgba(255,255,255,1);
+  -moz-box-shadow: 10px 10px 300px 122px rgba(255,255,255,1);
+  box-shadow: 10px 10px 300px 122px rgba(255,255,255,1);
+}
+
+li>a{
+  transition: 1.2s ease;
+  margin: 5px;
+  font-size: 3vw;
+  opacity: 0.6;
+  display: inline-block;
+}
+
+.top{
+  opacity: 0.2;
+  position: absolute;
+  top:-30%;
+  left: -92%;
+  height: 200%;
+}
+
+.bottom{
+  bottom: 0;
+  right: 0;
+  opacity: 0.2;
+  position: absolute;
+}
+
+ul{
+  position: relative;
+  z-index: 10;
+  list-style-type: inherit;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: auto;
+  transition: 1s ease;
+  padding-bottom: 100px;
+
+}
+/*
+.hoverable{
+  left: -80%;
+  text-align: right;
+}
+
+.hoverable:hover{
+  left: 0;
+  text-align: left;
+  transition: 1s ease;
+  padding-bottom: 600px;
+}*/
+
+h1{
+  position: relative;
+  z-index: 1000;
+  left: 40px;
+}
+
+h1:hover a{
+  background-color: black;
+  color: white;
+}
+
+*{
+  font-family: "Courier New", Courier, Sans-Serif;
+}
+
+/* Paragraphes en bleu par défaut */
+p
+{
+  color: blue;
+}
+
+/* Nouvelles règles si la fenêtre fait au plus 1024px de large */
+@media (max-width: 767px){
+  li>a {
+    font-size: 10vw;
+    margin: 10px;
+  }
+  h1{
+    font-size: 6vw;
+  }
+}
+
+.box{
+  width: calc(100%/3);
+  margin: 80px auto;
+}
+
+.image-box img{
+  display: inline-block;
+  width: 200px;
+  height: auto;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  transition: 0.3s ease;
+}
+
+/*.image-box img:hover{
+  width: 500px;
+  transition: 0.3s ease;
+}*/
