@@ -4,15 +4,17 @@
 <head>
     <meta charset="utf-8">
 
-    <title>The HTML5 Herald</title>
+    <title>Paint3000 world</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="The HTML5 Herald">
     <meta name="author" content="SitePoint">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
 
-    <link rel="stylesheet" href="css/styles.css?v=1.0">
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="fancybox-master/dist/jquery.fancybox.min.css" rel="stylesheet">
 
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
     <![endif]-->
 </head>
 
@@ -21,42 +23,70 @@
 <h1><a href="index.html">PAINT3000</a></h1>
 
 <div class="nav-box">
-    <ul class="hoverable">
+    <ul class="menu">
         <li><a href="about.html">About</a></li>
+        <li><a href="flash-tattoos.html">Flash tattoos</a></li>
+        <!-- <li><a href="le-bien-le-mal.html">Le bien le mal</a></li>
+         <li><a href="interrail-vitesse.html">Interrail vitesse</a></li>
         <li><a target="_blank" href="https://jeuneetcool.tictail.com">SHOP</a></li>
-        <li><a href="le-bien-le-mal.html">Le bien le mal</a></li>
-        <li><a href="interrail-vitesse.html">Interrail vitesse</a></li>
-        <li><a href="acab.html">All colors are beautiful</a></li>
-        <li><a href="acab.html">Flash tattoos</a></li>
-        <li><a href="acab.html">Mural</a></li>
-        <li><a href="acab.html">Indoor painting</a></li>
-        <li><a href="acab.html">Glitch</a></li>
-        <li><a href="acab.html">Outdoor painting</a></li>
-        <li><a href="acab.html">Microsoft Paint 98</a></li>
+         <li><a href="acab.html">All colors are beautiful</a></li>
+         <li><a href="acab.html">Mural</a></li>
+         <li><a href="acab.html">Indoor painting</a></li>
+         <li><a href="acab.html">Glitch</a></li>
+         <li><a href="acab.html">Outdoor painting</a></li>
+         <li><a href="acab.html">Microsoft Paint 98</a></li>
+         <li><a href="threejs.html">Three js</a></li>-->
     </ul>
 </div>
 
+<div>
+    <div id="container">
+        <ul>
+            <li id="item" class="item">
+                <div class="box_wrap">
+                    <a data-fancybox="gallery" href="images/flash/1.jpg">
+                        <img src="images/flash/1.jpg">
+                    </a>
+                    <div class="box_inner">
+                        <div id="tag" class="tag">Chai</div><br>
+                        <div id="title" class="title" data-lang="en">About me</div></div>
+                </div>
+                <div class="item_layer"></div>
+            </li>
+            <li id="item" class="item">
+                <div class="box_wrap">
+                    <a data-fancybox="gallery" href="images/flash/2.png">
+                        <img src="images/flash/2.png">
+                    </a>
+                </div>
+            </li>
+            <li id="item" class="item">
+                <div class="box_wrap">
+                    <img src="https://i1.sndcdn.com/artworks-000196529492-77zopd-t500x500.jpg">
+                </div>
+            </li>
+            <li id="item" class="item">
+                <div class="box_wrap">
+                    <img src="https://i1.sndcdn.com/artworks-000132180786-7aou6i-t500x500.jpg">
 
-<div class="image-box">
-    <img src="images/flash/1.jpg">
-    <img src="images/flash/2.png">
-    <img src="images/flash/3.png">
-    <img src="images/flash/4.png">
-    <img src="images/flash/5.png">
-    <img src="images/flash/6.png">
-    <img src="images/flash/7.png">
-    <img src="images/flash/8.png">
-    <img src="images/flash/9.png">
+                </div>
+            </li>
+        </ul>
+    </div>
 </div>
 
-<div class="">
-    <img class="top" src="images/source.gif" >
 
-</div>
+<script src="js/jquery-3.2.1.min.js"></script>
+<script src="js/anime.min.js"></script>
+<script src="js/tilt-effect.js"></script>
+<script src="fancybox-master/dist/jquery.fancybox.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"
+        integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh"
+        crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"
+        integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ"
+        crossorigin="anonymous"></script>
 
-<img class="top" src="images/source1.gif" >
-<img class="bottom" src="images/source2.gif" >
 
-<script src="js/scripts.js"></script>
 </body>
 </html>
