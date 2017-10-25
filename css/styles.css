@@ -308,3 +308,83 @@ p {
     transform-style: preserve-3d;
 }
 
+/* css poetry */
+
+
+
+.blue, .red{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    mix-blend-mode: add;
+    opacity: 0.3;
+    color: white;
+    font-size: 60px;
+}
+
+@media (min-width: 767px) {
+    .blue, .red{
+        width: 200px;
+        height: 200px;
+    }}
+
+.blue{
+    background-color: blue;
+    top: 100px;
+    left: 100px;
+    transition: 1s;
+
+    z-index: 4;
+}
+
+.red{
+    background-color: red;
+    top: 200px;
+    left: 200px;
+    transition: 2s;
+
+    z-index: 4;
+
+    mix-blend-mode: darken;
+
+}
+
+.blue:hover{
+    top: 125px;
+    left: 125px;
+    opacity:0.8;
+}
+
+.red:hover{
+    top:175px;
+    left:175px;
+    opacity:0.8;
+}
+
+.yellow{
+    background-color: yellow;
+    position: absolute;
+    z-index: 1;
+    width: 400px;
+    height: 400px;
+    top: 50px;
+    left: 50px;
+}
+
+.bien-mal{
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.desktop-only{
+    display: none;
+}
+
+@media (min-width: 767px) {
+    li.desktop-only{
+        display: list-item;
+    }
+
+}
