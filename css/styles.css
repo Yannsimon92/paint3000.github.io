@@ -25,6 +25,7 @@ body.screen-overflow {
 
 li{
     list-style-type: tibetan;
+    text-decoration: none;
 }
 
 li > a:hover {
@@ -37,6 +38,7 @@ li > a:hover {
     -webkit-box-shadow: 10px 10px 300px 122px rgba(255, 255, 255, 1);
     -moz-box-shadow: 10px 10px 300px 122px rgba(255, 255, 255, 1);
     box-shadow: 10px 10px 300px 122px rgba(255, 255, 255, 1);
+    text-decoration: underline;
 }
 
 a{
@@ -49,6 +51,7 @@ li > a {
     font-size: 1.5vw;
     opacity: 0.6;
     display: inline-block;
+    text-decoration: none;
 }
 
 .top {
@@ -137,6 +140,7 @@ ul.menu {
 /* Paragraphes en bleu par défaut */
 p {
     color: blue;
+    margin-bottom: 1rem;
 }
 
 /* Nouvelles règles si la fenêtre fait au plus 1024px de large */
@@ -240,6 +244,17 @@ p {
         margin-bottom: 80px;
     }
 
+}
+
+box_wrap{
+    width: 280px;
+    height: 280px;
+}
+@media (min-width: 767px) {
+    box_wrap{
+        width: 350px;
+        height: 350px;
+    }
 }
 
 .item img {
@@ -441,4 +456,5 @@ h1,h2,p, .nav-box{
     animation-name: fadeIn;
     animation-duration: 1s;
     animation-fill-mode: both;
+    font-weight:normal;
 }
