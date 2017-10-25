@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd05b05e-3279-4c2d-ac36-302201c335b6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lazysizes.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/outdoor-paintings.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/flash-tattoos.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fashion.html" afterPath="$PROJECT_DIR$/fashion.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/illustration.html" afterPath="$PROJECT_DIR$/illustration.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tilt-effect.js" afterPath="$PROJECT_DIR$/js/tilt-effect.js" />
-    </list>
+    <list default="true" id="fd05b05e-3279-4c2d-ac36-302201c335b6" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +32,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="outdoor-paintings.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="outdoor-paintings.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/outdoor-paintings.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="975">
@@ -93,11 +82,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="264" column="34" lean-forward="false" selection-start-line="264" selection-start-column="34" selection-end-line="264" selection-end-column="34" />
+            <state relative-caret-position="578">
+              <caret line="103" column="16" lean-forward="false" selection-start-line="103" selection-start-column="16" selection-end-line="103" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -190,10 +179,10 @@
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/illustration.html" />
         <option value="$PROJECT_DIR$/fashion.html" />
-        <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/tattoo.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/outdoor-paintings.html" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
       </list>
     </option>
   </component>
@@ -622,12 +611,12 @@
       <workItem from="1508752690122" duration="657000" />
       <workItem from="1508844339868" duration="3094000" />
       <workItem from="1508867139044" duration="12814000" />
-      <workItem from="1508919892260" duration="9886000" />
+      <workItem from="1508919892260" duration="10503000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29630000" />
+    <option name="totallyTimeSpent" value="30247000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1186" extended-state="6" />
@@ -884,14 +873,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="264" column="34" lean-forward="false" selection-start-line="264" selection-start-column="34" selection-end-line="264" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/illustration.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -928,6 +909,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
           <caret line="100" column="75" lean-forward="false" selection-start-line="100" selection-start-column="75" selection-end-line="100" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="103" column="16" lean-forward="false" selection-start-line="103" selection-start-column="16" selection-end-line="103" selection-end-column="16" />
           <folding />
         </state>
       </provider>
