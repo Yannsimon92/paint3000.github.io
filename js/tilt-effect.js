@@ -184,5 +184,7 @@ var Type = new WordShuffler(title,{
     timeOffset : 2
 });
 
+$('.image-blur').blurryLoad();
+
 
 
