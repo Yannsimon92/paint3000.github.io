@@ -77,18 +77,36 @@ ul.menu{
   padding-bottom: 600px;
 }*/
 
-h1{
+#home{
   position: relative;
   z-index: 1000;
-  left: 40px;
+  left: -66px;
+  top: -127px;
+  font-size: 200px;
+  transition: 4s;
 }
 
-h1:hover a{
+#home:hover{
   background-color: black;
   color: white;
+  opacity: 0.2;
+  font-size: 230px;
+  padding: 80px;
+  border-radius: 50%;
+  transition: 2s;
+  box-shadow: 40px 40px 300px 122px rgba(0,0,0,1);
 }
 
-*{
+#home:hover:after{
+  content: "go to homepage to look at the menu";
+  font-size: 23px;
+  position: absolute;
+  color: black;
+  background-color: tan;
+  bottom: 30px;
+}
+
+*, h1, h2{
   font-family: "Courier New", Courier, Sans-Serif;
 }
 
@@ -112,6 +130,7 @@ p
 .box{
   width: calc(100%/3);
   margin: 80px auto;
+  z-index: 30;
 }
 
 .image-box img{
@@ -120,12 +139,11 @@ p
   height: auto;
   margin: 0 auto;
   margin-bottom: 20px;
-  transition: 0.8s ease;
+  transition: 1.6s ease;
   position: relative;
   z-index: 100;
   margin: 5%;
   transform: perspective(600px) rotateY(-30deg);
-  transition: transform .8s;
   opacity: 0.5;
 }
 
@@ -135,7 +153,7 @@ p
   transform: rotateY(0);
   cursor: pointer;
   opacity: 1;
-  transition: transform .8s;
+  transition: transform 1.6s;
 }
 
 .image-box{
@@ -179,6 +197,7 @@ p
   cursor: pointer;
   transform: perspective(600px) translate3d(0, 0, 0);
   box-shadow: 0 10px 15px -5px rgba(0,0,0,.3);
+  opacity: 0.5;
 }
 .item img {
   position:absolute;
@@ -212,6 +231,7 @@ p
   box-shadow: 0 66px 75px -10px rgba(0,0,0,.3);
   transform-style: preserve-3d;
   z-index:20;
+  opacity: 1;
 }
 
 .item .cover {
