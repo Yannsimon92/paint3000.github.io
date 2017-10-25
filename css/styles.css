@@ -362,13 +362,14 @@ p {
 }
 
 .yellow{
-    background-color: yellow;
+    background-color: white;
     position: absolute;
     z-index: 1;
     width: 400px;
     height: 400px;
     top: 50px;
     left: 50px;
+    opacity: 0.7;
 }
 
 .bien-mal{
@@ -387,4 +388,40 @@ p {
         display: list-item;
     }
 
+}
+
+@-webkit-keyframes rotating /* Safari and Chrome */ {
+    from {
+        -webkit-transform: skew(1deg, -180deg) ;
+        -o-transform: skew(1deg, -180deg) ;
+        transform: skew(1deg, -180deg) ;
+    }
+    to {
+        -webkit-transform: skew(1deg, -11deg) ;
+        -o-transform: skew(1deg, -11deg) ;
+        transform: skew(1deg, -11deg) ;
+    }
+}
+@keyframes rotating {
+    from {
+        -ms-transform: skew(1deg, -180deg);
+        -moz-transform:  skew(1deg, -180deg);
+        -webkit-transform:  skew(1deg, -180deg) ;
+        -o-transform:  skew(1deg, -180deg) ;
+        transform:  skew(1deg, -180deg) ;
+    }
+    to {
+        -ms-transform: skew(1deg, -11deg) ;
+        -moz-transform: skew(1deg, -11deg) ;
+        -webkit-transform: skew(1deg, -11deg) ;
+        -o-transform: skew(1deg, -11deg) ;
+        transform: skew(1deg, -11deg) ;
+    }
+}
+.rotating {
+    -webkit-animation: rotating 20s linear infinite;
+    -moz-animation: rotating 20s linear infinite;
+    -ms-animation: rotating 20s linear infinite;
+    -o-animation: rotating 20s linear infinite;
+    animation: rotating 20s linear infinite;
 }
