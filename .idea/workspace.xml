@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd05b05e-3279-4c2d-ac36-302201c335b6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/source (1).gif" afterPath="$PROJECT_DIR$/images/source (1).gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/source (3).gif" afterPath="$PROJECT_DIR$/images/source (3).gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/source.gif" afterPath="$PROJECT_DIR$/images/source.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/source1.gif" afterPath="$PROJECT_DIR$/images/source1.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/source2.gif" afterPath="$PROJECT_DIR$/images/source2.gif" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -98,8 +102,8 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="40" column="30" lean-forward="false" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+            <state relative-caret-position="782">
+              <caret line="124" column="34" lean-forward="false" selection-start-line="124" selection-start-column="34" selection-end-line="124" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -156,8 +160,8 @@
       <find>fadeI</find>
       <find>KD</find>
       <find>fadeIn</find>
-      <find>.animated</find>
       <find>blue</find>
+      <find>.animated</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -615,12 +619,12 @@
       <workItem from="1508752690122" duration="657000" />
       <workItem from="1508844339868" duration="3094000" />
       <workItem from="1508867139044" duration="12814000" />
-      <workItem from="1508919892260" duration="14339000" />
+      <workItem from="1508919892260" duration="15203000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34083000" />
+    <option name="totallyTimeSpent" value="34947000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1186" extended-state="6" />
@@ -935,8 +939,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="40" column="30" lean-forward="false" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+        <state relative-caret-position="782">
+          <caret line="124" column="34" lean-forward="false" selection-start-line="124" selection-start-column="34" selection-end-line="124" selection-end-column="34" />
           <folding />
         </state>
       </provider>

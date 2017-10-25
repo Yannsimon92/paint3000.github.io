@@ -30,7 +30,7 @@ li{
 
 li > a:hover {
     font-size: 8vw;
-    transition: 1.2s ease;
+    transition: 1.8s ease;
     padding: 5%;
     margin: 10px;
     border-radius: 50%;
@@ -46,7 +46,7 @@ a{
 }
 
 li > a {
-    transition: 1.2s ease;
+    transition: 1.8s ease;
     margin: 5px;
     font-size: 1.5vw;
     opacity: 0.6;
@@ -97,6 +97,7 @@ ul.menu {
     font-size: 40px;
     position: relative;
     z-index: 1000;
+    text-decoration: none;
 }
 
 @media screen and (min-width: 1024px) {
@@ -121,6 +122,7 @@ ul.menu {
         transition: 2s;
         box-shadow: 40px 40px 300px 122px rgba(0, 0, 0, 1);
         animation: none;
+        text-decoration: underline;
     }
 }
 
