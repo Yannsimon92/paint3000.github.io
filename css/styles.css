@@ -248,12 +248,12 @@ p {
 
 }
 
-box_wrap{
+.box_wrap{
     width: 280px;
     height: 280px;
 }
 @media (min-width: 767px) {
-    box_wrap{
+    .box_wrap{
         width: 350px;
         height: 350px;
     }
@@ -266,7 +266,7 @@ box_wrap{
 }
 
 .item a{
-    width: 280px;
+    display: grid;
 }
 
 .box_inner {
