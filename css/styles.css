@@ -41,6 +41,7 @@ li>a{
   position: absolute;
   top:-30%;
   height: 200%;
+  z-index: 1;
 }
 
 .bottom{
@@ -48,6 +49,7 @@ li>a{
   right: 0;
   opacity: 0.2;
   position: absolute;
+  z-index:1;
 }
 
 ul.menu{
@@ -131,6 +133,7 @@ p
   width: calc(100%/3);
   margin: 80px auto;
   z-index: 30;
+  position: relative;
 }
 
 .image-box img{
