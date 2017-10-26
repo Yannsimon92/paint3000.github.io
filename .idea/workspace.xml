@@ -2,79 +2,299 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd05b05e-3279-4c2d-ac36-302201c335b6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/Indoor paintings/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/Indoor paintings/2.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/Indoor paintings/3.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/27.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/28.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/29.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/30.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/31.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/27.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/28.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/29.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/30.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/31.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/32.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/glitch/small/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glitch.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/indoor-paintings.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microsoft-paint.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/illustration/21.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-102.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-103.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-104.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-105.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-106.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-107.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-108.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-109.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-110.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-111.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-112.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-113.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-114.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-115.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-116.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-117.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-118.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-119.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-120.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-121.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-122.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-123.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-124.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-125.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-126.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-127.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-128.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-129.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-130.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-131.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-132.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-133.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-134.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-135.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-136.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-137.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-138.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-139.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-140.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-141.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-142.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-143.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-145.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-146.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-147.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-148.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-149.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-151.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-152.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-153.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-154.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-155.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-156.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-157.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-158.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-159.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-160.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-161.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-162.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-163.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-164.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-165.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-166.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-167.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-168.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-169.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-170.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-171.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-172.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-173.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-174.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-175.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-176.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-177.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-178.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-179.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-180.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-181.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-182.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-183.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-184.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-185.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-186.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-187.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-188.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-189.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-190.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-191.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-192.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-193.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-194.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-195.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-196.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-197.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-198.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-199.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-200.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-201.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-202.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-203.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-204.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-205.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-206.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-207.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-208.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-209.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-210.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-211.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-44.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-46.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-51.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-52.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-53.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-54.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-55.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-56.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-57.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-58.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-59.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-61.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-62.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-63.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-64.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-65.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-66.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-67.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-68.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-69.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-70.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-71.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-73.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-74.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-75.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-78.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-79.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-80.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-81.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-82.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-83.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-84.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-85.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-86.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-87.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-88.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-89.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-90.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-91.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-92.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-93.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-94.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-95.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-97.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-98.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Sans-titre-99.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Untitled-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Untitled-2 - Copie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/Livre Cybergirls/Untitled-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/collab high stickers/final (2).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/collab high stickers/final-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/collab high stickers/final-300.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/collab high stickers/final.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/collab high stickers/finalbig.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/collab high stickers/negatif.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/collab high stickers/negatif3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Sans titre1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untiaaatled-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untitdled-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untitlaed-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untitlaqsed-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untitle&amp;d-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untitlead-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untitled-&amp;1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untitled-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untitled-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untitled-1aacd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untitled-1qmo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untitled-1qqa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untitled-1qs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untitled-1qsa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untitled-1qsdf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untitled-aa1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untitled-aqsz1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untitled-qsa51.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untitled-s1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untitled-z1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untitledd-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untitledq-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untitledqsa-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untitledqsaw-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untitleds-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untitlesd-aa1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untitlsed-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untitsled-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untqaqitled-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/Untxitled-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/divers-.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/divers-14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/divers-14color.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/divers-20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/divers-24qa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/divers-30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/divers-310.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/divers-9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/divers-9a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/divers-a24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/divers/divers1-9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/fanzine/10606087_1724086551171765_6090235897363198200_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/livre cybergirls photos/test.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/livre cybergirls photos/test2.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/livre cybergirls photos/test3.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/livre cybergirls photos/test4.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/livre cybergirls photos/test5.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/small/autoportrait_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/small/jeunesse_acide_typo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/small/master_a4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/small/protege_ton_dos.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/small/sans_titre2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/small/untitled_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/flash/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/flash/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/flash/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/flash/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/flash/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/flash/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/flash/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/flash/8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/flash/9.png" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/illustration/Sans titre2.png" afterPath="$PROJECT_DIR$/images/album/illustration/17.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/illustration/Untitled-1.png" afterPath="$PROJECT_DIR$/images/album/illustration/19.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/illustration/autoportrait-2.png" afterPath="$PROJECT_DIR$/images/album/illustration/10.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/illustration/jeunesse-acide-typo.png" afterPath="$PROJECT_DIR$/images/album/illustration/14.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/illustration/master-a4.png" afterPath="$PROJECT_DIR$/images/album/illustration/15.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/illustration/protege-ton-dos.png" afterPath="$PROJECT_DIR$/images/album/illustration/16.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/illustration/true-bromance2.png" afterPath="$PROJECT_DIR$/images/album/illustration/18.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/illustration.html" afterPath="$PROJECT_DIR$/illustration.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outdoor-paintings.html" afterPath="$PROJECT_DIR$/outdoor-paintings.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -89,8 +309,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" column="58" lean-forward="false" selection-start-line="36" selection-start-column="58" selection-end-line="36" selection-end-column="58" />
+            <state relative-caret-position="408">
+              <caret line="24" column="59" lean-forward="true" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -106,10 +326,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="microsoft-paint.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="microsoft-paint.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/microsoft-paint.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
+            <state relative-caret-position="1536">
               <caret line="210" column="63" lean-forward="false" selection-start-line="210" selection-start-column="63" selection-end-line="210" selection-end-column="63" />
               <folding />
             </state>
@@ -141,11 +361,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="illustration.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="illustration.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/illustration.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="318">
+              <caret line="169" column="104" lean-forward="false" selection-start-line="169" selection-start-column="104" selection-end-line="169" selection-end-column="104" />
               <folding />
             </state>
           </provider>
@@ -257,15 +477,15 @@
         <option value="$PROJECT_DIR$/fashion.html" />
         <option value="$PROJECT_DIR$/tattoo.html" />
         <option value="$PROJECT_DIR$/css-poetry.html" />
-        <option value="$PROJECT_DIR$/illustration.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/inked-tattoo.html" />
         <option value="$PROJECT_DIR$/glitch.html" />
         <option value="$PROJECT_DIR$/indoor-paintings.html" />
         <option value="$PROJECT_DIR$/outdoor-paintings.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/microsoft-paint.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/illustration.html" />
       </list>
     </option>
   </component>
@@ -426,6 +646,54 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Indoor paintings" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="paint3000.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="paint3000.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="album" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="illustration" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="paint3000.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="paint3000.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="album" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="illustration" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="small" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -644,12 +912,12 @@
       <workItem from="1508959204640" duration="2561000" />
       <workItem from="1509021514668" duration="700000" />
       <workItem from="1509022533644" duration="154000" />
-      <workItem from="1509024223111" duration="4875000" />
+      <workItem from="1509024223111" duration="6774000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45129000" />
+    <option name="totallyTimeSpent" value="47028000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1186" extended-state="6" />
@@ -1012,14 +1280,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/illustration.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/glitch.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5525">
@@ -1049,18 +1309,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/microsoft-paint.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="58" lean-forward="false" selection-start-line="36" selection-start-column="58" selection-end-line="36" selection-end-column="58" />
+        <state relative-caret-position="1536">
+          <caret line="210" column="63" lean-forward="false" selection-start-line="210" selection-start-column="63" selection-end-line="210" selection-end-column="63" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microsoft-paint.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="210" column="63" lean-forward="false" selection-start-line="210" selection-start-column="63" selection-end-line="210" selection-end-column="63" />
+        <state relative-caret-position="408">
+          <caret line="24" column="59" lean-forward="true" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/illustration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="169" column="104" lean-forward="false" selection-start-line="169" selection-start-column="104" selection-end-line="169" selection-end-column="104" />
           <folding />
         </state>
       </provider>
