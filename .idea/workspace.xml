@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd05b05e-3279-4c2d-ac36-302201c335b6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inked-tattoo.html" afterPath="$PROJECT_DIR$/inked-tattoo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outdoor-paintings.html" afterPath="$PROJECT_DIR$/outdoor-paintings.html" />
-    </list>
+    <list default="true" id="fd05b05e-3279-4c2d-ac36-302201c335b6" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -638,12 +635,12 @@
       <workItem from="1508959204640" duration="2561000" />
       <workItem from="1509021514668" duration="700000" />
       <workItem from="1509022533644" duration="154000" />
-      <workItem from="1509024223111" duration="2087000" />
+      <workItem from="1509024223111" duration="2682000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42341000" />
+    <option name="totallyTimeSpent" value="42936000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1186" extended-state="6" />
