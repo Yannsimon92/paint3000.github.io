@@ -458,3 +458,29 @@ h1,h2,p, .nav-box{
     animation-fill-mode: both;
     font-weight:normal;
 }
+
+#shop-link{
+    position: absolute;
+    z-index: 10;
+    top: 444px;
+    right: 280px;
+    font-size: 30px;
+    text-decoration: none;
+    transition: 0.5s ease;
+}
+
+#shop-link:hover{
+    font-weight: bold;
+    font-size: 35px;
+    transition: 0.5s ease;
+}
+
+#shop-link:hover:after{
+    content: "jeuneetcool.tictail.com";
+    font-size: 23px;
+    position: absolute;
+    color: black;
+    background-color: tan;
+    bottom: -35px;
+    left: -30px;
+}
