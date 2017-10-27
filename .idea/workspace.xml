@@ -2,10 +2,188 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd05b05e-3279-4c2d-ac36-302201c335b6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/Indoor paintings/4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/Indoor paintings/small/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/Indoor paintings/small/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/Indoor paintings/small/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/Indoor paintings/small/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/Outdoor Paintings/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/10.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/11.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/12.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/13.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/14.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/15.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/16.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/17.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/18.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/19.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/20.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/21.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/22.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/23.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/25.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/26.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/27.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/28.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/6.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/7.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/8.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/9.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/25.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/26.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/27.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/28.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/29.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/30.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/31.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/flash tattoo/small/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/illustration/32.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/illustration/33.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/illustration/34.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/illustration/35.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/illustration/36.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/illustration/37.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/illustration/38.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/illustration/39.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/illustration/40.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/illustration/41.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/illustration/42.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/illustration/43.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/illustration/44.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/13.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/7.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/8.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/small/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/small/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/small/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/small/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/small/13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/small/14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/small/15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/small/16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/small/17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/small/18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/small/19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/small/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/small/20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/small/21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/small/22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/small/23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/small/24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/small/25.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/small/26.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/small/27.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/small/28.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/small/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/small/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/small/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/small/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/small/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/small/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/album/tattoo/small/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flash-tattoos.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/Outdoor Paintings/IMG_4881.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/Outdoor Paintings/small/img_3466.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/Outdoor Paintings/small/img_3808.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/Outdoor Paintings/small/img_3943.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/Outdoor Paintings/small/img_4485.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/Outdoor Paintings/small/img_4498.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/Outdoor Paintings/small/img_4803.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/Outdoor Paintings/small/img_4881.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/Outdoor Paintings/small/octobre_186.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/illustration/30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/tattoo/small/img_4357.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/tattoo/small/img_4362.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/tattoo/small/img_4371.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/tattoo/small/img_4373.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/tattoo/small/img_4545.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/tattoo/small/img_4547.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/tattoo/small/img_4649.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/tattoo/small/img_4771.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/tattoo/small/img_4898.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/tattoo/small/img_4904.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/tattoo/small/img_4926.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/tattoo/small/img_4973.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/tattoo/small/octobre_028.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/tattoo/small/octobre_030.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/tattoo/small/octobre_034.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/tattoo/small/octobre_108.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/tattoo/small/octobre_113.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/tattoo/small/tatt1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/album/tattoo/small/tatt2.jpg" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/Outdoor Paintings/IMG_3466.JPG" afterPath="$PROJECT_DIR$/images/album/Outdoor Paintings/1.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/Outdoor Paintings/IMG_3808.JPG" afterPath="$PROJECT_DIR$/images/album/Outdoor Paintings/2.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/Outdoor Paintings/IMG_3943.JPG" afterPath="$PROJECT_DIR$/images/album/Outdoor Paintings/3.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/Outdoor Paintings/IMG_4485.JPG" afterPath="$PROJECT_DIR$/images/album/Outdoor Paintings/4.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/Outdoor Paintings/IMG_4498.JPG" afterPath="$PROJECT_DIR$/images/album/Outdoor Paintings/5.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/Outdoor Paintings/IMG_4803.JPG" afterPath="$PROJECT_DIR$/images/album/Outdoor Paintings/6.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/Outdoor Paintings/octobre 186.JPG" afterPath="$PROJECT_DIR$/images/album/Outdoor Paintings/16.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/tattoo/IMG_4357.JPG" afterPath="$PROJECT_DIR$/images/album/tattoo/9.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/tattoo/IMG_4362.JPG" afterPath="$PROJECT_DIR$/images/album/tattoo/10.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/tattoo/IMG_4371.JPG" afterPath="$PROJECT_DIR$/images/album/tattoo/11.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/tattoo/IMG_4373.JPG" afterPath="$PROJECT_DIR$/images/album/tattoo/12.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/tattoo/IMG_4545.JPG" afterPath="$PROJECT_DIR$/images/album/tattoo/14.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/tattoo/IMG_4547.JPG" afterPath="$PROJECT_DIR$/images/album/tattoo/15.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/tattoo/IMG_4649.JPG" afterPath="$PROJECT_DIR$/images/album/tattoo/16.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/tattoo/IMG_4771.JPG" afterPath="$PROJECT_DIR$/images/album/tattoo/17.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/tattoo/IMG_4898.JPG" afterPath="$PROJECT_DIR$/images/album/tattoo/18.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/tattoo/IMG_4904.JPG" afterPath="$PROJECT_DIR$/images/album/tattoo/19.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/tattoo/IMG_4926.JPG" afterPath="$PROJECT_DIR$/images/album/tattoo/20.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/tattoo/IMG_4973.JPG" afterPath="$PROJECT_DIR$/images/album/tattoo/21.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/tattoo/octobre 028.JPG" afterPath="$PROJECT_DIR$/images/album/tattoo/22.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/tattoo/octobre 030.JPG" afterPath="$PROJECT_DIR$/images/album/tattoo/23.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/tattoo/octobre 034.JPG" afterPath="$PROJECT_DIR$/images/album/tattoo/24.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/tattoo/octobre 108.JPG" afterPath="$PROJECT_DIR$/images/album/tattoo/25.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/tattoo/octobre 113.JPG" afterPath="$PROJECT_DIR$/images/album/tattoo/26.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/tattoo/tatt1.jpg" afterPath="$PROJECT_DIR$/images/album/tattoo/27.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/album/tattoo/tatt2.jpg" afterPath="$PROJECT_DIR$/images/album/tattoo/28.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/illustration.html" afterPath="$PROJECT_DIR$/illustration.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/indoor-paintings.html" afterPath="$PROJECT_DIR$/indoor-paintings.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inked-tattoo.html" afterPath="$PROJECT_DIR$/inked-tattoo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outdoor-paintings.html" afterPath="$PROJECT_DIR$/outdoor-paintings.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,11 +195,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+            <state relative-caret-position="629">
+              <caret line="37" column="70" lean-forward="true" selection-start-line="37" selection-start-column="70" selection-end-line="37" selection-end-column="70" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flash-tattoos.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flash-tattoos.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="156" column="46" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="265" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -30,8 +218,8 @@
       <file leaf-file-name="outdoor-paintings.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/outdoor-paintings.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="26" column="11" lean-forward="false" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+            <state relative-caret-position="771">
+              <caret line="157" column="17" lean-forward="false" selection-start-line="157" selection-start-column="17" selection-end-line="157" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -47,17 +235,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="glitch.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/glitch.html">
+      <file leaf-file-name="inked-tattoo.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inked-tattoo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5525">
-              <caret line="376" column="22" lean-forward="false" selection-start-line="376" selection-start-column="22" selection-end-line="376" selection-end-column="22" />
-              <folding>
-                <marker date="1509028518779" expanded="true" signature="15922:15944" ph="..." />
-                <marker date="1509028518779" expanded="true" signature="15922:16009" ph="..." />
-                <marker date="1509028518779" expanded="true" signature="16373:16506" ph="..." />
-                <marker date="1509028518779" expanded="true" signature="16596:16729" ph="..." />
-              </folding>
+            <state relative-caret-position="189">
+              <caret line="212" column="46" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="249" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -65,8 +248,8 @@
       <file leaf-file-name="indoor-paintings.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/indoor-paintings.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="10" lean-forward="false" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+            <state relative-caret-position="782">
+              <caret line="64" column="73" lean-forward="false" selection-start-line="64" selection-start-column="73" selection-end-line="64" selection-end-column="73" />
               <folding />
             </state>
           </provider>
@@ -75,8 +258,8 @@
       <file leaf-file-name="illustration.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/illustration.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="169" column="104" lean-forward="false" selection-start-line="169" selection-start-column="104" selection-end-line="169" selection-end-column="104" />
+            <state relative-caret-position="267">
+              <caret line="320" column="85" lean-forward="false" selection-start-line="320" selection-start-column="85" selection-end-line="320" selection-end-column="85" />
               <folding />
             </state>
           </provider>
@@ -92,21 +275,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="animate.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/animate.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-714">
-              <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="692">
-              <caret line="493" column="43" lean-forward="false" selection-start-line="493" selection-start-column="43" selection-end-line="493" selection-end-column="43" />
+            <state relative-caret-position="828">
+              <caret line="508" column="16" lean-forward="false" selection-start-line="508" selection-start-column="16" selection-end-line="508" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -136,9 +309,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>type</find>
-      <find>type.</find>
-      <find>type.s</find>
       <find>type.sc</find>
       <find>type.scs</find>
       <find>type.scss</find>
@@ -159,17 +329,23 @@
       <find>blue</find>
       <find>.animated</find>
       <find>280</find>
-      <find>&lt;div id=&quot;title&quot; class=&quot;title&quot; data-lang=&quot;en&quot;&gt;Portrait&lt;/div&gt;&lt;/div&gt;</find>
       <find>35</find>
       <find>after</find>
       <find>hover</find>
       <find>box</find>
-      <find>.box</find>
       <find>fixed</find>
+      <find>.box</find>
+      <find>flash%20tattoo</find>
+      <find>illustration</find>
+      <find>tattoo</find>
+      <find>&lt;div id=&quot;title&quot; class=&quot;title&quot; data-lang=&quot;en&quot;&gt;Portrait&lt;/div&gt;&lt;/div&gt;</find>
     </findStrings>
     <replaceStrings>
       <replace />
       <replace>1024</replace>
+      <replace>tattoo</replace>
+      <replace>flash%20tattoo</replace>
+      <replace>Outdoor%20Paintings</replace>
       <replace />
     </replaceStrings>
     <dirStrings>
@@ -185,21 +361,21 @@
         <option value="$PROJECT_DIR$/threejs.html" />
         <option value="$PROJECT_DIR$/js/anime.min.js" />
         <option value="$PROJECT_DIR$/about2.html" />
-        <option value="$PROJECT_DIR$/flash-tattoos.html" />
         <option value="$PROJECT_DIR$/js/lazysizes.min.js" />
         <option value="$PROJECT_DIR$/js/tilt-effect.js" />
         <option value="$PROJECT_DIR$/fashion.html" />
         <option value="$PROJECT_DIR$/tattoo.html" />
         <option value="$PROJECT_DIR$/css-poetry.html" />
-        <option value="$PROJECT_DIR$/inked-tattoo.html" />
         <option value="$PROJECT_DIR$/glitch.html" />
-        <option value="$PROJECT_DIR$/indoor-paintings.html" />
-        <option value="$PROJECT_DIR$/outdoor-paintings.html" />
         <option value="$PROJECT_DIR$/microsoft-paint.html" />
-        <option value="$PROJECT_DIR$/illustration.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/flash-tattoos.html" />
+        <option value="$PROJECT_DIR$/inked-tattoo.html" />
+        <option value="$PROJECT_DIR$/outdoor-paintings.html" />
+        <option value="$PROJECT_DIR$/indoor-paintings.html" />
+        <option value="$PROJECT_DIR$/illustration.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -311,6 +487,54 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="tattoo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="paint3000.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="paint3000.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="album" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tattoo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="small" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="paint3000.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="paint3000.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="album" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="paint" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -359,7 +583,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Indoor paintings" />
+              <option name="myItemId" value="Outdoor Paintings" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -658,12 +882,12 @@
       <workItem from="1508959204640" duration="2561000" />
       <workItem from="1509021514668" duration="700000" />
       <workItem from="1509022533644" duration="154000" />
-      <workItem from="1509024223111" duration="9480000" />
+      <workItem from="1509024223111" duration="15518000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49734000" />
+    <option name="totallyTimeSpent" value="55772000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1186" extended-state="6" />
@@ -969,19 +1193,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flash-tattoos.html" />
     <entry file="file://$PROJECT_DIR$/css/animate.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-714">
           <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inked-tattoo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="221" column="68" lean-forward="false" selection-start-line="221" selection-start-column="68" selection-end-line="221" selection-end-column="68" />
           <folding />
         </state>
       </provider>
@@ -1015,22 +1230,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/indoor-paintings.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="10" lean-forward="false" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/outdoor-paintings.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="26" column="11" lean-forward="false" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/microsoft-paint.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1536">
@@ -1039,26 +1238,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/illustration.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="169" column="104" lean-forward="false" selection-start-line="169" selection-start-column="104" selection-end-line="169" selection-end-column="104" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="30" column="40" lean-forward="false" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -1076,8 +1259,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="692">
-          <caret line="493" column="43" lean-forward="false" selection-start-line="493" selection-start-column="43" selection-end-line="493" selection-end-column="43" />
+        <state relative-caret-position="828">
+          <caret line="508" column="16" lean-forward="false" selection-start-line="508" selection-start-column="16" selection-end-line="508" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inked-tattoo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="212" column="46" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="249" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flash-tattoos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="156" column="46" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="265" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outdoor-paintings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="771">
+          <caret line="157" column="17" lean-forward="false" selection-start-line="157" selection-start-column="17" selection-end-line="157" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indoor-paintings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="64" column="73" lean-forward="false" selection-start-line="64" selection-start-column="73" selection-end-line="64" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/illustration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="320" column="85" lean-forward="false" selection-start-line="320" selection-start-column="85" selection-end-line="320" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="70" lean-forward="true" selection-start-line="37" selection-start-column="70" selection-end-line="37" selection-end-column="70" />
           <folding />
         </state>
       </provider>
