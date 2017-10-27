@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd05b05e-3279-4c2d-ac36-302201c335b6" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -18,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="37" column="43" lean-forward="false" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
+            <state relative-caret-position="476">
+              <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -83,8 +85,8 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="43" lean-forward="false" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+            <state relative-caret-position="510">
+              <caret line="30" column="40" lean-forward="false" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -103,19 +105,22 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="845">
-              <caret line="484" column="16" lean-forward="false" selection-start-line="484" selection-start-column="16" selection-end-line="484" selection-end-column="16" />
+            <state relative-caret-position="692">
+              <caret line="493" column="43" lean-forward="false" selection-start-line="493" selection-start-column="43" selection-end-line="493" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lazysizes.min.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/lazysizes.min.js">
+      <file leaf-file-name="jquery.fancybox.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fancybox-master/dist/jquery.fancybox.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="306">
+              <caret line="839" column="75" lean-forward="false" selection-start-line="839" selection-start-column="75" selection-end-line="839" selection-end-column="75" />
+              <folding>
+                <marker date="1507042590000" expanded="true" signature="5244:5250" ph=" " />
+                <marker date="1507042590000" expanded="true" signature="5251:5257" ph=" " />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -131,9 +136,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>BinaryRe</find>
-      <find>BinaryReader</find>
-      <find>opacity</find>
       <find>type</find>
       <find>type.</find>
       <find>type.s</find>
@@ -148,8 +150,6 @@
       <find>this.writeWord</find>
       <find>10vw</find>
       <find>nowrap</find>
-      <find>box</find>
-      <find>.box</find>
       <find>space</find>
       <find>7</find>
       <find>768</find>
@@ -161,6 +161,11 @@
       <find>280</find>
       <find>&lt;div id=&quot;title&quot; class=&quot;title&quot; data-lang=&quot;en&quot;&gt;Portrait&lt;/div&gt;&lt;/div&gt;</find>
       <find>35</find>
+      <find>after</find>
+      <find>hover</find>
+      <find>box</find>
+      <find>.box</find>
+      <find>fixed</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -186,7 +191,6 @@
         <option value="$PROJECT_DIR$/fashion.html" />
         <option value="$PROJECT_DIR$/tattoo.html" />
         <option value="$PROJECT_DIR$/css-poetry.html" />
-        <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/inked-tattoo.html" />
         <option value="$PROJECT_DIR$/glitch.html" />
         <option value="$PROJECT_DIR$/indoor-paintings.html" />
@@ -194,6 +198,7 @@
         <option value="$PROJECT_DIR$/microsoft-paint.html" />
         <option value="$PROJECT_DIR$/illustration.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
       </list>
     </option>
@@ -490,6 +495,38 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="fancybox-master" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="paint3000.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="paint3000.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fancybox-master" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="paint3000.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="paint3000.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -621,12 +658,12 @@
       <workItem from="1508959204640" duration="2561000" />
       <workItem from="1509021514668" duration="700000" />
       <workItem from="1509022533644" duration="154000" />
-      <workItem from="1509024223111" duration="7248000" />
+      <workItem from="1509024223111" duration="9480000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47502000" />
+    <option name="totallyTimeSpent" value="49734000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1186" extended-state="6" />
@@ -662,14 +699,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/animate.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="12" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/lazysizes.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -941,14 +970,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flash-tattoos.html" />
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="43" lean-forward="false" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/animate.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-714">
@@ -1026,18 +1047,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="40" lean-forward="false" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="43" lean-forward="false" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
+        <state relative-caret-position="476">
+          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fancybox-master/dist/jquery.fancybox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="839" column="75" lean-forward="false" selection-start-line="839" selection-start-column="75" selection-end-line="839" selection-end-column="75" />
+          <folding>
+            <marker date="1507042590000" expanded="true" signature="5244:5250" ph=" " />
+            <marker date="1507042590000" expanded="true" signature="5251:5257" ph=" " />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="845">
-          <caret line="484" column="16" lean-forward="false" selection-start-line="484" selection-start-column="16" selection-end-line="484" selection-end-column="16" />
+        <state relative-caret-position="692">
+          <caret line="493" column="43" lean-forward="false" selection-start-line="493" selection-start-column="43" selection-end-line="493" selection-end-column="43" />
           <folding />
         </state>
       </provider>
