@@ -7,7 +7,7 @@ html {
 }
 
 body {
-    /*background-image: url("../images/source1.gif");*/
+    background-image: url("../images/source1.gif");
     background-image: radial-gradient(circle, #00fff4, #71feff, #bbfaff, #ebf9ff, #ffffff);
     background-position-x: right;
     background-repeat: no-repeat;
@@ -503,3 +503,8 @@ h1,h2,p, .nav-box{
 
 .fancybox-overlay{z-index:9999 !important}
 .fancybox-wrap{z-index:99999 !important}
+
+.fancybox-container{
+    height: 100vh !important;
+    width: 100vw !important;
+}
